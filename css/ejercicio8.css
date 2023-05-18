@@ -1,0 +1,27 @@
+body {
+    background-image: url(/img/nike.jpg);
+    background-size: cover;
+}
+
+.zapas {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 27vw;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 13%;
+    background-color: steelblue;
+    border-color: skyblue ;
+    border-style: solid;
+    border-radius: 15px;
+    color: black;
+}
+.zapas img {
+    width: 100%;
+}
+
+#boton {
+    border-radius: 15px;
+    width: 100%;
+    background: black;
+    color: white;
+}
