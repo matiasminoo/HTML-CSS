@@ -1,4 +1,4 @@
 ## My HTML & CSS practices
 
-- [HTML](./index.html)
-- [CSS](./style.css)
+- [HTML](./html/index.html)
+- [CSS](./css/style.css)
